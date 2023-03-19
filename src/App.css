@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+  font-weight: 900 !important;
+  font-size: 126px !important;
+  line-height: 112px !important;
+  letter-spacing: -2.17241px;
+
+  /* Font Color */
+
+  color: #000000;
+}
+
+h2 {
+  font-size: 66px !important;
+  line-height: 82px !important;
+  letter-spacing: -1.13793px;
+}
+
+h3 {
+  font-size: 36px !important;
+  line-height: 46px !important;
+}
+
+h4,
+h5,
+button {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 24px !important;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #9e8c6c;
+}
+
+h5 {
+  color: black;
+}
+
+p,
+li,
+b,
+span {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-weight: 300 !important;
+  font-size: 20px !important;
+  line-height: 34px !important;
+
+  /* Font Color */
+
+  color: #000000;
+}
+
+b {
+  font-weight: 700 !important;
+}
